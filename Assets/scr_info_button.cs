@@ -1,7 +1,6 @@
-using System.Diagnostics;
 using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class scr_info_button : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -13,10 +12,5 @@ public class NewMonoBehaviourScript : MonoBehaviour
     void Update()
     {
         
-    }
-
-    private string GetDebuggerDisplay()
-    {
-        return ToString();
     }
 }

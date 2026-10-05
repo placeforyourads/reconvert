@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\TECNO\\reconvert\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|c:\\users\\tecno\\reconvert\\assets\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|solutionrelative:assets\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|c:\\users\\tecno\\reconvert\\assets\\scr_ui_builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scr_ui_builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NewMonoBehaviourScript.cs",
-              "DocumentMoniker": "C:\\Users\\TECNO\\reconvert\\Assets\\NewMonoBehaviourScript.cs",
-              "RelativeDocumentMoniker": "Assets\\NewMonoBehaviourScript.cs",
-              "ToolTip": "C:\\Users\\TECNO\\reconvert\\Assets\\NewMonoBehaviourScript.cs",
-              "RelativeToolTip": "Assets\\NewMonoBehaviourScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "scr_ui_builder.cs",
+              "DocumentMoniker": "C:\\Users\\TECNO\\reconvert\\Assets\\scr_ui_builder.cs",
+              "RelativeDocumentMoniker": "Assets\\scr_ui_builder.cs",
+              "ToolTip": "C:\\Users\\TECNO\\reconvert\\Assets\\scr_ui_builder.cs",
+              "RelativeToolTip": "Assets\\scr_ui_builder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T18:34:04.656Z",
+              "WhenOpened": "2026-10-04T13:45:09.805Z",
               "EditorCaption": ""
             }
           ]
