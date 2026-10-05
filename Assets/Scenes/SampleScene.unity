@@ -169,6 +169,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1d53e53e9e341745a5d3e6189461fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  Dropdown_1: {fileID: 0}
+  Dropdown_2: {fileID: 0}
+  Dropdown_3: {fileID: 0}
+  inputField_1: {fileID: 0}
+  inputField_2: {fileID: 0}
+  inputField_3: {fileID: 0}
 --- !u!114 &15694083
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6630,6 +6636,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2111226458}
   - component: {fileID: 2111226459}
+  - component: {fileID: 2111226460}
   m_Layer: 0
   m_Name: UIBuild
   m_TagString: Untagged
@@ -6671,8 +6678,26 @@ MonoBehaviour:
   - {fileID: 1209101175}
   dropdowns:
   - {fileID: 245695070}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1099002302}
+  - {fileID: 693098698}
+--- !u!114 &2111226460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111226456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1d53e53e9e341745a5d3e6189461fa4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::scr_checking_script
+  Dropdown_1: {fileID: 245695070}
+  Dropdown_2: {fileID: 1099002302}
+  Dropdown_3: {fileID: 693098698}
+  inputField_1: {fileID: 425257300}
+  inputField_2: {fileID: 285286068}
+  inputField_3: {fileID: 1209101175}
 --- !u!1 &2113507895
 GameObject:
   m_ObjectHideFlags: 0
