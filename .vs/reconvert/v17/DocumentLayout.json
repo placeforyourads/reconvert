@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\TECNO\\reconvert\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|c:\\users\\tecno\\reconvert\\assets\\scr_checking_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|c:\\users\\tecno\\reconvert\\assets\\menu_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|solutionrelative:assets\\menu_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|C:\\Users\\TECNO\\reconvert\\assets\\scr_checking_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scr_checking_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|c:\\users\\tecno\\reconvert\\assets\\scr_ui_builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scr_ui_builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|C:\\Users\\TECNO\\reconvert\\assets\\lesson_package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|solutionrelative:assets\\lesson_package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|C:\\Users\\TECNO\\reconvert\\assets\\normalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB80773-E5B8-6A4B-7DF6-67E225A483F2}|Assembly-CSharp.csproj|solutionrelative:assets\\normalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "menu_manager.cs",
+              "DocumentMoniker": "C:\\Users\\TECNO\\reconvert\\Assets\\menu_manager.cs",
+              "RelativeDocumentMoniker": "Assets\\menu_manager.cs",
+              "ToolTip": "C:\\Users\\TECNO\\reconvert\\Assets\\menu_manager.cs",
+              "RelativeToolTip": "Assets\\menu_manager.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:46:29.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lesson_package.cs",
+              "DocumentMoniker": "C:\\Users\\TECNO\\reconvert\\Assets\\lesson_package.cs",
+              "RelativeDocumentMoniker": "Assets\\lesson_package.cs",
+              "ToolTip": "C:\\Users\\TECNO\\reconvert\\Assets\\lesson_package.cs",
+              "RelativeToolTip": "Assets\\lesson_package.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:24:22.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "normalizer.cs",
+              "DocumentMoniker": "C:\\Users\\TECNO\\reconvert\\Assets\\normalizer.cs",
+              "RelativeDocumentMoniker": "Assets\\normalizer.cs",
+              "ToolTip": "C:\\Users\\TECNO\\reconvert\\Assets\\normalizer.cs",
+              "RelativeToolTip": "Assets\\normalizer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T19:20:18.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "scr_checking_script.cs",
               "DocumentMoniker": "C:\\Users\\TECNO\\reconvert\\Assets\\scr_checking_script.cs",
               "RelativeDocumentMoniker": "Assets\\scr_checking_script.cs",
               "ToolTip": "C:\\Users\\TECNO\\reconvert\\Assets\\scr_checking_script.cs",
               "RelativeToolTip": "Assets\\scr_checking_script.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABQCAAAAAAAAAADwvzgCAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T12:37:05.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "scr_ui_builder.cs",
-              "DocumentMoniker": "C:\\Users\\TECNO\\reconvert\\Assets\\scr_ui_builder.cs",
-              "RelativeDocumentMoniker": "Assets\\scr_ui_builder.cs",
-              "ToolTip": "C:\\Users\\TECNO\\reconvert\\Assets\\scr_ui_builder.cs",
-              "RelativeToolTip": "Assets\\scr_ui_builder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T13:45:09.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T12:37:05.371Z"
             }
           ]
         }

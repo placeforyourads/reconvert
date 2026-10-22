@@ -1,6 +1,4 @@
-using UnityEngine;
-
-public static class StringNormalizer
+public class StringNormalizer
 {
     /// <summary>
     /// Нормализует строку:
@@ -8,7 +6,7 @@ public static class StringNormalizer
     /// - удаляет все символы, кроме цифр и латинских букв
     /// - переводит латинские буквы в верхний регистр
     /// </summary>
-    public static string Normalize(string input)
+    public string Normalize(string input)
     {
         if (string.IsNullOrEmpty(input))
             return string.Empty;
@@ -26,10 +24,10 @@ public static class StringNormalizer
 
             if (leadingZeroPhase)
             {
-                if (c == '0')
-                    continue;
+                //if (c == '0')
+                //    continue;
 
-                leadingZeroPhase = false;
+                //leadingZeroPhase = false;
             }
 
             result += isLatinLetter ? char.ToUpper(c) : c;
